@@ -1,0 +1,15 @@
+{
+  "num_occupants": 3,
+  "num_bedrooms": 2,
+  "year_built": 1979,
+  "renovated": false,
+  "year_renovated": null,
+  "wall_group": "μπετο",
+  "wall_finish": "με σοβά",
+  "roof_type": "Συμβατικού τύπου δώμα",
+  "floor_type": "Επί εδάφους",
+  "climate_zone": "Β",
+  "window_type": "μονός υαλοπίνακας",
+  "boiler_type": "Λέβητας χαμηλών θερμοκρασιών",
+  "fuel_type": "φυσικό αέριο"
+}

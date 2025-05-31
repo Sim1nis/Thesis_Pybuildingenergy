@@ -449,7 +449,7 @@ table_B_3 = pd.DataFrame({
 
 })
 
-# Values for the calculation of domestic hot watrer requirements per day
+# Values for the calculation of domestic hot water requirements per day
 table_B_4 = pd.DataFrame(
     {
     'type_of_activity'  : [

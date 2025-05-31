@@ -70,11 +70,11 @@ def main(building_archetype:str, period_archetype: str, weather_type:str, path_w
 if __name__ == "__main__":
     main(
         building_archetype = 'single_family_house',
-        period_archetype = 'before 1900',
+        period_archetype = '2006-today',
         weather_type = 'pvgis',
         path_weather_file_ = None,
-        latitude = 44.78,
-        longitude = 9.78,
+        latitude = 37.98,
+        longitude = 23.72,
         path_hourly_sim_result = file_dir + "/Result/hourly_sim__arch.csv",
         path_annual_sim_result = file_dir + "/Result/annual_sim__arch.csv",
         dir_chart_folder = file_dir+ "/Result",
