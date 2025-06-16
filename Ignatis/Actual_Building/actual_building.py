@@ -11,8 +11,6 @@
 ## Τύπος λέβητα	Λέβητας (χωρίς στοιχεία)	0,75
 ## Τύπος καυσίμου	Πετρέλαιο	1,07
 
-
-
 import numpy as np
 import os
 import pandas as pd
