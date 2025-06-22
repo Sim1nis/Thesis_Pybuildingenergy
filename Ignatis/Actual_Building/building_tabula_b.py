@@ -68,10 +68,10 @@ user_bui = {
     'heat_convective_elements_external': np.array([20.0]*8, dtype=object),
     'heat_radiative_elements_external': np.array([4.14]*8, dtype=object),
 
-    'occ_level_wd': np.ones(24),
-    'occ_level_we': np.ones(24),
-    'comf_level_wd': np.ones(24),
-    'comf_level_we': np.ones(24),
+    'occ_level_wd': np.array([1]*18 + [0]*6),
+    'occ_level_we': np.array([1]*18 + [0]*6),
+    'comf_level_wd': np.array([1]*18 + [0]*6),
+    'comf_level_we': np.array([1]*18 + [0]*6),
 
     'heating_period_start': (11, 1),
     'heating_period_end': (4, 1),
