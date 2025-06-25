@@ -1,0 +1,2 @@
+Q_H_annual (kWh),Q_C_annual (kWh),"Final_H (boiler, kWh)","Final_H (HP, kWh)","Final_C (HP, kWh)","Primary_H (boiler, PEF 1.07)","Primary_H (HP, PEF 2.83)","Primary_C (HP, PEF 2.83)",Q_DHW_total (kWh),"Final_DHW (boiler, kWh)","Primary_DHW (boiler, PEF 1.07)","Final_DHW (HP, kWh)","Primary_DHW (HP, PEF 2.83)",Distribution_losses (kWh),Primary_Total_adjusted (kWh)
+8399.101,31495.348,11198.801333333335,2624.7190625,10498.449333333334,11982.717426666668,7427.954946875,29710.611613333334,2946.3,0.0,0.0,2946.3,8338.029,713.0,21033.74642666667
